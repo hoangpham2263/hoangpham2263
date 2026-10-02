@@ -40,8 +40,10 @@
   <img height="180em" src="./languages.svg"/>
   <img height="180em" src="https://github-readme-streak-stats-eight.vercel.app/?user=hoangpham2263&theme=dark&ring=EB5454"/>
 </a>
-<br/><br/>
-<img src="https://komarev.com/ghpvc/?username=hoangpham2263&label=Profile%20views&color=2563eb&style=flat-square" alt="Profile views" />
 </p>
 
 <p><b>Note:</b> The languages card lists the languages I work with most, not an automatic count of my public repositories. Stats and streak only reflect public activity on this account.</p>
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=hoangpham2263&label=Profile%20views&color=2563eb&style=flat-square" alt="Profile views" />
+</p>
