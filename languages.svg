@@ -1,0 +1,49 @@
+<svg width="350" height="190" viewBox="0 0 350 190" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    .header { font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif; fill: #fff; animation: fadeIn 0.8s ease-in-out forwards; }
+    .lang-name { font: 400 11px 'Segoe UI', Ubuntu, Sans-Serif; fill: #9f9f9f; }
+    .item { opacity: 0; animation: fadeIn 0.3s ease-in-out forwards; }
+    .bar { transform-origin: left; transform: scaleX(0); animation: grow 1s ease-in-out forwards; }
+    @keyframes fadeIn { from { opacity: 0; } to { opacity: 1; } }
+    @keyframes grow { from { transform: scaleX(0); } to { transform: scaleX(1); } }
+  </style>
+  <rect x="0.5" y="0.5" rx="4.5" width="349" height="189" fill="#151515" stroke="#E4E2E2" stroke-opacity="1"/>
+  <text x="25" y="35" class="header">My Programming Languages</text>
+
+  <mask id="bar-mask">
+    <rect x="25" y="55" width="300" height="8" rx="5" fill="white"/>
+  </mask>
+  <g mask="url(#bar-mask)">
+    <g class="bar">
+      <rect x="25"  y="55" width="75" height="8" fill="#4F5D95"/>
+      <rect x="100" y="55" width="75" height="8" fill="#f1e05a"/>
+      <rect x="175" y="55" width="75" height="8" fill="#e34c26"/>
+      <rect x="250" y="55" width="75" height="8" fill="#663399"/>
+    </g>
+  </g>
+
+  <g transform="translate(25, 95)">
+    <g class="item" style="animation-delay: 450ms">
+      <circle cx="5" cy="6" r="5" fill="#4F5D95"/>
+      <text x="15" y="10" class="lang-name">PHP</text>
+    </g>
+  </g>
+  <g transform="translate(175, 95)">
+    <g class="item" style="animation-delay: 600ms">
+      <circle cx="5" cy="6" r="5" fill="#f1e05a"/>
+      <text x="15" y="10" class="lang-name">JavaScript</text>
+    </g>
+  </g>
+  <g transform="translate(25, 125)">
+    <g class="item" style="animation-delay: 750ms">
+      <circle cx="5" cy="6" r="5" fill="#e34c26"/>
+      <text x="15" y="10" class="lang-name">HTML</text>
+    </g>
+  </g>
+  <g transform="translate(175, 125)">
+    <g class="item" style="animation-delay: 900ms">
+      <circle cx="5" cy="6" r="5" fill="#663399"/>
+      <text x="15" y="10" class="lang-name">CSS</text>
+    </g>
+  </g>
+</svg>
