@@ -3,12 +3,12 @@
 
 <h3> 👨🏻‍💻 About Me </h3>
 
-- 🔭 &nbsp; I'm currently a WordPress Developer at Puramu, building websites from user interfaces to admin systems.
-- 🤔 &nbsp; Specializing in SEO-friendly websites, PageSpeed optimization and Core Web Vitals.
+- 🔭 &nbsp; Full-Stack Developer with a strong focus on WordPress — building SEO-friendly websites from user interfaces to admin systems.
+- 🧮 &nbsp; Currently freelancing with HD TechLabs Solution, creating and reviewing advanced math problems and coding benchmark tasks for evaluating AI models.
+- 💼 &nbsp; 30+ websites delivered: custom themes, plugins, WooCommerce, hosting setup and PageSpeed optimization.
+- ⚙️ &nbsp; Previously a Web Developer at Puramu and a Backend Intern at Meta Technology.
 - 🎓 &nbsp; Bachelor in Software Engineering from Duy Tan University (2021 – 2025).
-- 💼 &nbsp; Experienced in custom themes, plugin development, WooCommerce and third-party API integration.
-- ⚙️ &nbsp; Previously a Backend Intern at Meta Technology, building APIs with Next.js.
-- 🌐 &nbsp; Portfolio: <a href="https://hoangpham.vn">hoangpham.vn</a> &nbsp;|&nbsp; CV: <a href="https://hoangpham.vn/resume/">hoangpham.vn/resume</a>
+- 🌐 &nbsp; Portfolio: <a href="https://hoangpham2263.github.io">hoangpham2263.github.io</a> &nbsp;|&nbsp; Resume: <a href="https://hoangpham2263.github.io/cv">hoangpham2263.github.io/cv</a>
 
 <h3>🚀 Current Project</h3>
 
@@ -16,10 +16,12 @@
 
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; WordPress | PHP | JavaScript | HTML5 | CSS3 | Tailwind CSS | Responsive Design
-- 🔌 &nbsp; Custom Themes | Plugin Development | WooCommerce | WordPress REST API | WP Hooks & Filters
-- 🚀 &nbsp; Technical SEO | PageSpeed Optimization | Core Web Vitals | LiteSpeed Cache
-- 🔧 &nbsp; Next.js | Node.js | API Integration | Security Hardening | Git
+- 💻 &nbsp; WordPress | PHP | JavaScript | Python | HTML5 | CSS3 | Tailwind CSS
+- 🔌 &nbsp; Custom Themes | Plugin Development | WooCommerce | ACF | WordPress REST API | WP Hooks & Filters
+- ⚛️ &nbsp; React | Next.js | Node.js | Django
+- 🗄️ &nbsp; MySQL | PostgreSQL
+- 🚀 &nbsp; Technical SEO | PageSpeed | Core Web Vitals | Security
+- 🔧 &nbsp; Git | Docker | CI | REST API
 
 ### ⚙️ &nbsp;Stats and Activity
 
@@ -34,10 +36,10 @@
 <h3> 🤝🏻 Connect with Me </h3>
 
 <p align="center">
-&nbsp; <a href="#" target="_blank" rel="noopener noreferrer"><img src="https://skillicons.dev/icons?i=twitter" width="32" /></a>
-&nbsp; <a href="#" target="_blank" rel="noopener noreferrer"><img src="https://skillicons.dev/icons?i=instagram" width="32" /></a>
-&nbsp; <a href="https://www.linkedin.com/in/quochoangidx/" target="_blank" rel="noopener noreferrer"><img src="https://skillicons.dev/icons?i=linkedin" width="32" /></a>
-&nbsp; <a href="mailto:quochoang.idx@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://skillicons.dev/icons?i=gmail" width="32" /></a>
+&nbsp; <a href="https://www.linkedin.com/in/hoangpham2263/" target="_blank" rel="noopener noreferrer"><img src="https://skillicons.dev/icons?i=linkedin" width="32" alt="LinkedIn" /></a>
+&nbsp; <a href="mailto:hoangpham2263@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://skillicons.dev/icons?i=gmail" width="32" alt="Gmail" /></a>
+&nbsp; <a href="https://hoangpham2263.github.io" target="_blank" rel="noopener noreferrer"><img src="./portfolio.svg" width="32" alt="Portfolio" /></a>
+&nbsp; <a href="https://zalo.me/0971955144" target="_blank" rel="noopener noreferrer"><img src="./zalo.svg" width="32" alt="Zalo" /></a>
 </p>
 
 <p align="center"> <img height="30em" src="https://komarev.com/ghpvc/?username=hoangpham2263&label=Profile%20views&color=0e75b6&style=flat" alt="hoangpham2263" /> </p>
