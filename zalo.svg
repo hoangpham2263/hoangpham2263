@@ -1,5 +1,5 @@
 <svg width="48" height="48" viewBox="0 0 256 256" fill="none" xmlns="http://www.w3.org/2000/svg">
   <rect width="256" height="256" rx="60" fill="#242938"/>
-  <path d="M128 46c-50.8 0-92 34.9-92 78 0 22.6 11.3 43 29.4 57.2L58 212l36.4-17.8c10.6 3.8 22 5.8 33.6 5.8 50.8 0 92-34.9 92-78s-41.2-76-92-76Z" fill="#0068FF"/>
-  <text x="128" y="140" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="58" font-weight="700" fill="#FFFFFF">Zalo</text>
+  <path d="M128 40c-55.2 0-100 37.6-100 84 0 24.4 12.4 46.4 32.2 61.7L52 220l39.6-19.2c11.4 4 23.8 6.2 36.4 6.2 55.2 0 100-37.6 100-84S183.2 40 128 40Z" fill="#0068FF"/>
+  <text x="128" y="146" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="70" font-weight="700" fill="#FFFFFF">Zalo</text>
 </svg>
