@@ -26,7 +26,7 @@
 
 <h3> 🤝🏻 Connect with Me </h3>
 
-- <img src="./icons/linkedin.svg" width="18" align="absmiddle" alt="LinkedIn" /> &nbsp; **LinkedIn:** <a href="https://www.linkedin.com/in/hoangpham2263/">linkedin.com/in/hoangpham2263</a>
+- <img src="./icons/linkedin-logo.svg" width="18" align="absmiddle" alt="LinkedIn" /> &nbsp; **LinkedIn:** <a href="https://www.linkedin.com/in/hoangpham2263/">linkedin.com/in/hoangpham2263</a>
 - <img src="./icons/gmail.svg" width="18" align="absmiddle" alt="Email" /> &nbsp; **Email:** <a href="mailto:hoangpham2263@gmail.com">hoangpham2263@gmail.com</a>
 - <img src="./icons/portfolio.svg" width="18" align="absmiddle" alt="Portfolio" /> &nbsp; **Portfolio:** <a href="https://hoangpham2263.github.io">hoangpham2263.github.io</a>
 - <img src="./icons/cv.svg" width="18" align="absmiddle" alt="Resume" /> &nbsp; **Resume:** <a href="https://hoangpham2263.github.io/cv">hoangpham2263.github.io/cv</a>
