@@ -1,5 +1,8 @@
 <h2> Hey there! I'm Pham Quoc Hoang. <a href="#"><img src="https://user-images.githubusercontent.com/49482201/126591888-470f4965-6629-4b15-ab27-70be72148fe4.gif" width="25"></a></h2>
-<a href="#"><img align="right" alt="GIF" src="https://user-images.githubusercontent.com/49482201/126591963-c6972900-bfde-48d4-841d-d84ef26aaadf.gif" width="400"/></a>
+<a href="#"><picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./coding-dark.gif">
+  <img align="right" alt="GIF" src="https://user-images.githubusercontent.com/49482201/126591963-c6972900-bfde-48d4-841d-d84ef26aaadf.gif" width="400"/>
+</picture></a>
 
 <h3> 👨🏻‍💻 About Me </h3>
 
