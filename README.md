@@ -14,7 +14,7 @@
 
 - 💻 &nbsp; WordPress | PHP | JavaScript | Python | HTML5 | CSS3 | Tailwind CSS
 - 🔌 &nbsp; Custom Themes | Plugin Development | WooCommerce | ACF | WordPress REST API | WP Hooks & Filters
-- ⚛️ &nbsp; React | Next.js | Node.js
+- ⚛️ &nbsp; React | Next.js | Node.js | Django
 - 🗄️ &nbsp; MySQL | PostgreSQL | MongoDB
 - 🚀 &nbsp; Technical SEO | PageSpeed | Core Web Vitals | Security
 - 🔧 &nbsp; Git | Docker | CI | REST API
