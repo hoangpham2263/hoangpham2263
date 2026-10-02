@@ -4,11 +4,10 @@
 <h3> 👨🏻‍💻 About Me </h3>
 
 - 🔭 &nbsp; Full-Stack Developer with a strong focus on WordPress — building SEO-friendly websites from user interfaces to admin systems.
-- 💼 &nbsp; 30+ websites delivered: custom themes, plugins, WooCommerce, hosting setup and PageSpeed optimization.
+- 💼 &nbsp; 30+ websites delivered for businesses in e-commerce, education, real estate and services.
 - 🧮 &nbsp; Currently freelancing with HD TechLabs Solution, creating and reviewing advanced math problems and coding benchmark tasks for evaluating AI models.
 - ⚙️ &nbsp; Previously a Web Developer at Puramu and a Backend Intern at Meta Technology.
 - 🎓 &nbsp; Bachelor in Software Engineering from Duy Tan University (2021 – 2025).
-- 🌐 &nbsp; Portfolio: <a href="https://hoangpham2263.github.io">hoangpham2263.github.io</a> &nbsp;|&nbsp; Resume: <a href="https://hoangpham2263.github.io/cv">hoangpham2263.github.io/cv</a>
 
 <h3>🛠 Tech Stack</h3>
 
@@ -27,7 +26,7 @@
 
 - <img src="./icons/linkedin.svg" width="18" align="absmiddle" alt="LinkedIn" /> &nbsp; **LinkedIn:** <a href="https://www.linkedin.com/in/hoangpham2263/">linkedin.com/in/hoangpham2263</a>
 - <img src="./icons/gmail.svg" width="18" align="absmiddle" alt="Email" /> &nbsp; **Email:** <a href="mailto:hoangpham2263@gmail.com">hoangpham2263@gmail.com</a>
-- <img src="./icons/portfolio.svg" width="18" align="absmiddle" alt="Portfolio" /> &nbsp; **Portfolio:** <a href="https://hoangpham2263.github.io">hoangpham2263.github.io</a>
+- <img src="./icons/portfolio.svg" width="18" align="absmiddle" alt="Portfolio" /> &nbsp; **Portfolio:** <a href="https://hoangpham2263.github.io">hoangpham2263.github.io</a> &nbsp;·&nbsp; <a href="https://hoangpham2263.github.io/cv">Resume</a>
 - <img src="./icons/zalo.svg" width="18" align="absmiddle" alt="Zalo" /> &nbsp; **Zalo:** <a href="https://zalo.me/0971955144">Chat on Zalo</a>
 
 ### ⚙️ &nbsp;Stats and Activity
