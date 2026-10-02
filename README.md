@@ -37,7 +37,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/hoangpham2263/" target="_blank" rel="noopener noreferrer"><img src="./linkedin.svg" width="40" alt="LinkedIn" /></a>&nbsp;&nbsp;
-  <a href="mailto:hoangpham2263@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://skillicons.dev/icons?i=gmail" width="40" alt="Gmail" /></a>&nbsp;&nbsp;
+  <a href="mailto:hoangpham2263@gmail.com" target="_blank" rel="noopener noreferrer"><img src="./gmail.svg" width="40" alt="Gmail" /></a>&nbsp;&nbsp;
   <a href="https://hoangpham2263.github.io" target="_blank" rel="noopener noreferrer"><img src="./portfolio.svg" width="40" alt="Portfolio" /></a>&nbsp;&nbsp;
   <a href="https://zalo.me/0971955144" target="_blank" rel="noopener noreferrer"><img src="./zalo.svg" width="40" alt="Zalo" /></a>
 </p>
