@@ -22,7 +22,7 @@
 
 <h3>🚀 Current Project</h3>
 
-- 💸 &nbsp; <a href="https://hoanhoi.com"><b>Hoàn Hời</b></a> — Founder & Developer. A cashback platform that lets users create tracked shopping links and get money back once their orders are reconciled. Built with Next.js and running in production.
+- 💸 &nbsp; <a href="https://hoanhoi.com"><b>Hoàn Hời</b></a> — Creator & Developer. A personal project: a cashback platform that lets users create tracked shopping links and get money back once their orders are reconciled. Built with Next.js and running in production.
 
 <h3> 🤝🏻 Connect with Me </h3>
 
