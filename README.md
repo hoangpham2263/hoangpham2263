@@ -22,9 +22,9 @@
 
 <p align="center">
 <a href="https://github.com/hoangpham2263">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hoangpham2263&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hoangpham2263&layout=compact&langs_count=8&theme=dark"/>
-  <img height="180em" src="https://streak-stats.demolab.com/?user=hoangpham2263&theme=dark&ring=EB5454"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=hoangpham2263&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=hoangpham2263&layout=compact&langs_count=8&theme=dark"/>
+  <img height="180em" src="https://github-readme-streak-stats-eight.vercel.app/?user=hoangpham2263&theme=dark&ring=EB5454"/>
 </a>
 </p>
 <p>
