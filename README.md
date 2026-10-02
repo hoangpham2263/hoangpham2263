@@ -18,7 +18,7 @@
 - 🗄️ &nbsp; MySQL | PostgreSQL
 - 🚀 &nbsp; Technical SEO | PageSpeed | Core Web Vitals | Security
 - 🔧 &nbsp; Git | Docker | CI | REST API
-- 🤖 &nbsp; Claude Code | Codex | ChatGPT | Prompt Engineering | AI Agent Skills
+- 🤖 &nbsp; Claude Code | Codex | Prompt Engineering | AI Agent Skills
 
 <h3>🚀 Current Project</h3>
 
