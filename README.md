@@ -36,13 +36,10 @@
 <h3> 🤝🏻 Connect with Me </h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/hoangpham2263/" target="_blank" rel="noopener noreferrer"><img src="./linkedin.svg" width="18" align="top" alt="" /> <b>LinkedIn</b></a>
-  &nbsp;&nbsp;·&nbsp;&nbsp;
-  <a href="mailto:hoangpham2263@gmail.com" target="_blank" rel="noopener noreferrer"><img src="./gmail.svg" width="18" align="top" alt="" /> <b>Email</b></a>
-  &nbsp;&nbsp;·&nbsp;&nbsp;
-  <a href="https://hoangpham2263.github.io" target="_blank" rel="noopener noreferrer"><img src="./portfolio.svg" width="18" align="top" alt="" /> <b>Portfolio</b></a>
-  &nbsp;&nbsp;·&nbsp;&nbsp;
-  <a href="https://zalo.me/0971955144" target="_blank" rel="noopener noreferrer"><img src="./zalo.svg" width="20" align="top" alt="" /> <b>Zalo</b></a>
+  <a href="https://www.linkedin.com/in/hoangpham2263/" target="_blank" rel="noopener noreferrer"><img src="./icons/linkedin.svg" width="26" alt="LinkedIn" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="mailto:hoangpham2263@gmail.com" target="_blank" rel="noopener noreferrer"><img src="./icons/gmail.svg" width="26" alt="Gmail" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://hoangpham2263.github.io" target="_blank" rel="noopener noreferrer"><img src="./icons/portfolio.svg" width="26" alt="Portfolio" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://zalo.me/0971955144" target="_blank" rel="noopener noreferrer"><img src="./icons/zalo.svg" width="28" alt="Zalo" /></a>
 </p>
 
 <p align="center"><img src="https://komarev.com/ghpvc/?username=hoangpham2263&label=Profile%20views&color=2563eb&style=flat-square" alt="Profile views" /></p>
