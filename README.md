@@ -6,6 +6,7 @@
 - 🔭 &nbsp; Full-Stack Developer with a strong focus on WordPress — building SEO-friendly websites from user interfaces to admin systems.
 - 💼 &nbsp; 30+ websites delivered for businesses in e-commerce, education, real estate and services.
 - 🧮 &nbsp; Currently freelancing with HD TechLabs Solution, creating and reviewing advanced math problems and coding benchmark tasks for evaluating AI models.
+- 🤖 &nbsp; AI-assisted development: I build reusable Claude Code and Codex skills and project guides to ship faster with consistent quality.
 - ⚙️ &nbsp; Previously a Web Developer at Puramu and a Backend Intern at Meta Technology.
 - 🎓 &nbsp; Bachelor in Software Engineering from Duy Tan University (2021 – 2025).
 
@@ -17,6 +18,7 @@
 - 🗄️ &nbsp; MySQL | PostgreSQL
 - 🚀 &nbsp; Technical SEO | PageSpeed | Core Web Vitals | Security
 - 🔧 &nbsp; Git | Docker | CI | REST API
+- 🤖 &nbsp; Claude Code | Codex | ChatGPT | Prompt Engineering | AI Agent Skills
 
 <h3>🚀 Current Project</h3>
 
