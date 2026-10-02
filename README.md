@@ -1,5 +1,4 @@
 <h2> Hey there! I'm Pham Quoc Hoang. <img src="https://user-images.githubusercontent.com/49482201/126591888-470f4965-6629-4b15-ab27-70be72148fe4.gif" width="25"></h2>
-<p><img src="https://komarev.com/ghpvc/?username=hoangpham2263&label=Profile%20views&color=2563eb&style=flat-square" alt="Profile views" /></p>
 <img align="right" alt="GIF" src="https://user-images.githubusercontent.com/49482201/126591963-c6972900-bfde-48d4-841d-d84ef26aaadf.gif" width="400"/>
 
 <h3> 👨🏻‍💻 About Me </h3>
@@ -39,4 +38,6 @@
   <img height="180em" src="./languages.svg"/>
   <img height="180em" src="https://github-readme-streak-stats-eight.vercel.app/?user=hoangpham2263&theme=dark&ring=EB5454"/>
 </a>
+<br/><br/>
+<img src="https://komarev.com/ghpvc/?username=hoangpham2263&label=Profile%20views&color=2563eb&style=flat-square" alt="Profile views" />
 </p>
