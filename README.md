@@ -7,7 +7,7 @@
 <h3> 👨🏻‍💻 About Me </h3>
 
 - 🔭 &nbsp; Full-Stack Developer with a strong focus on WordPress — building SEO-friendly websites from user interfaces to admin systems.
-- 💼 &nbsp; 30+ websites delivered for businesses in e-commerce, education, real estate and services.
+- 💼 &nbsp; Business websites delivered for clients in e-commerce, education, real estate and services.
 - 🧮 &nbsp; Currently freelancing with HD TechLabs Solution, creating and reviewing advanced math problems and coding benchmark tasks for evaluating AI models.
 - 🤖 &nbsp; AI-assisted development: I build reusable Claude Code and Codex skills and project guides to ship faster with consistent quality.
 - ⚙️ &nbsp; Previously a Web Developer at Puramu and a Backend Intern at Meta Technology.
