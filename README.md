@@ -6,11 +6,9 @@
 
 <h3> 👨🏻‍💻 About Me </h3>
 
-- 🔭 &nbsp; Full-Stack Developer with a strong focus on WordPress — building SEO-friendly websites from user interfaces to admin systems.
-- 💼 &nbsp; Business websites delivered for clients in e-commerce, education, real estate and services.
-- 🕷️ &nbsp; Python crawlers to import product and quiz data into WordPress & WooCommerce, and store migrations from other platforms.
-- 🌱 &nbsp; In my free time I explore new technologies and use them to build my own products.
-- 🎓 &nbsp; Bachelor in Software Engineering from Duy Tan University (2021 – 2025).
+Welcome to my GitHub! I love turning ideas into websites that are fast, easy to use and easy to find on Google. Most of my work is building websites for businesses, and in my free time I explore new technologies and use them to build my own products.
+
+👉 &nbsp; Take a look at my projects on my <a href="https://hoangpham2263.github.io"><b>portfolio</b></a>, and feel free to reach out if you'd like to work together.
 
 <h3>🛠 Tech Stack</h3>
 
