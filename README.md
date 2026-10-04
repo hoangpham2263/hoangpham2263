@@ -1,4 +1,4 @@
-<h2> Hey there! I'm Pham Quoc Hoang. <a href="#"><img src="https://user-images.githubusercontent.com/49482201/126591888-470f4965-6629-4b15-ab27-70be72148fe4.gif" width="25"></a></h2>
+<h2> Hey there! I'm Pham Quoc Hoang (Will). <a href="#"><img src="https://user-images.githubusercontent.com/49482201/126591888-470f4965-6629-4b15-ab27-70be72148fe4.gif" width="25"></a></h2>
 <a href="#"><picture>
   <source media="(prefers-color-scheme: dark)" srcset="./coding-dark.gif">
   <img align="right" alt="GIF" src="https://user-images.githubusercontent.com/49482201/126591963-c6972900-bfde-48d4-841d-d84ef26aaadf.gif" width="400"/>
@@ -8,22 +8,23 @@
 
 - 🔭 &nbsp; Full-Stack Developer with a strong focus on WordPress — building SEO-friendly websites from user interfaces to admin systems.
 - 💼 &nbsp; Business websites delivered for clients in e-commerce, education, real estate and services.
-- 🤖 &nbsp; AI-assisted development: I build reusable Claude Code and Codex skills and project guides to ship faster with consistent quality.
+- 🕷️ &nbsp; Python crawlers to import product and quiz data into WordPress & WooCommerce, and store migrations from other platforms.
+- 🌱 &nbsp; In my free time I explore new technologies and use them to build my own products.
 - 🎓 &nbsp; Bachelor in Software Engineering from Duy Tan University (2021 – 2025).
 
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; WordPress | PHP | JavaScript | Python | HTML5 | CSS3 | Tailwind CSS
-- 🔌 &nbsp; Custom Themes | Plugin Development | WooCommerce | ACF | WordPress REST API | WP Hooks & Filters
-- ⚛️ &nbsp; React | Next.js | Node.js | Django
-- 🗄️ &nbsp; MySQL | PostgreSQL | MongoDB
-- 🚀 &nbsp; Technical SEO | PageSpeed | Core Web Vitals | Security
-- 🔧 &nbsp; Git | Docker | CI | REST API
-- 🤖 &nbsp; Claude Code | Codex | Gemini | Prompt Engineering | AI Agent Skills
+- 🔌 &nbsp; **WordPress:** Custom Themes | Plugin Development | WooCommerce | Elementor | ACF | WP REST API | Hooks & Filters
+- 🎨 &nbsp; **Frontend:** HTML5 | CSS3 | JavaScript | TypeScript | React | Next.js | Tailwind CSS | Responsive Design
+- ⚙️ &nbsp; **Backend:** PHP | Node.js | Python | Django | REST API | API Integration
+- 🗄️ &nbsp; **Database:** MySQL | PostgreSQL | MongoDB | Redis
+- 🕷️ &nbsp; **Crawl Data:** Python | Import to WordPress & WooCommerce
+- 🚀 &nbsp; **Performance & SEO:** Technical SEO | Rank Math | PageSpeed | Core Web Vitals | LiteSpeed Cache | Security Hardening
+- 🔧 &nbsp; **Tools & AI:** Git | Docker | GitHub Actions (CI/CD) | Figma | Claude Code | Codex | Gemini
 
 <h3>🚀 Current Project</h3>
 
-- 💸 &nbsp; <a href="https://hoanhoi.com"><b>Hoàn Hời</b></a> — Creator & Developer. A personal project: a cashback platform that lets users create tracked shopping links and get money back once their orders are reconciled. Built with Next.js and running in production.
+- 💸 &nbsp; <a href="https://hoanhoi.com"><b>Hoàn Hời</b></a> — Creator & Developer (Aug 2026 – Present). A personal project: a cashback platform that lets users create tracked shopping links and get money back once their orders are reconciled. Built with Next.js, PostgreSQL and Redis, with CI/CD on GitHub Actions, and running in production.
 
 <h3> 🤝🏻 Connect with Me </h3>
 

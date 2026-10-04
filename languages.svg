@@ -15,33 +15,47 @@
   </mask>
   <g mask="url(#bar-mask)">
     <g class="bar">
-      <rect x="25"  y="55" width="75" height="8" fill="#4F5D95"/>
-      <rect x="100" y="55" width="75" height="8" fill="#f1e05a"/>
-      <rect x="175" y="55" width="75" height="8" fill="#e34c26"/>
-      <rect x="250" y="55" width="75" height="8" fill="#663399"/>
+      <rect x="25" y="55" width="50" height="8" fill="#4F5D95"/>
+      <rect x="75" y="55" width="50" height="8" fill="#f1e05a"/>
+      <rect x="125" y="55" width="50" height="8" fill="#3178c6"/>
+      <rect x="175" y="55" width="50" height="8" fill="#3fb950"/>
+      <rect x="225" y="55" width="50" height="8" fill="#e34c26"/>
+      <rect x="275" y="55" width="50" height="8" fill="#663399"/>
     </g>
   </g>
 
-  <g transform="translate(25, 95)">
+  <g transform="translate(25, 85)">
     <g class="item" style="animation-delay: 450ms">
       <circle cx="5" cy="6" r="5" fill="#4F5D95"/>
       <text x="15" y="10" class="lang-name">PHP</text>
     </g>
   </g>
-  <g transform="translate(175, 95)">
+  <g transform="translate(175, 85)">
     <g class="item" style="animation-delay: 600ms">
       <circle cx="5" cy="6" r="5" fill="#f1e05a"/>
       <text x="15" y="10" class="lang-name">JavaScript</text>
     </g>
   </g>
-  <g transform="translate(25, 125)">
+  <g transform="translate(25, 115)">
     <g class="item" style="animation-delay: 750ms">
+      <circle cx="5" cy="6" r="5" fill="#3178c6"/>
+      <text x="15" y="10" class="lang-name">TypeScript</text>
+    </g>
+  </g>
+  <g transform="translate(175, 115)">
+    <g class="item" style="animation-delay: 900ms">
+      <circle cx="5" cy="6" r="5" fill="#3fb950"/>
+      <text x="15" y="10" class="lang-name">Python</text>
+    </g>
+  </g>
+  <g transform="translate(25, 145)">
+    <g class="item" style="animation-delay: 1050ms">
       <circle cx="5" cy="6" r="5" fill="#e34c26"/>
       <text x="15" y="10" class="lang-name">HTML</text>
     </g>
   </g>
-  <g transform="translate(175, 125)">
-    <g class="item" style="animation-delay: 900ms">
+  <g transform="translate(175, 145)">
+    <g class="item" style="animation-delay: 1200ms">
       <circle cx="5" cy="6" r="5" fill="#663399"/>
       <text x="15" y="10" class="lang-name">CSS</text>
     </g>
