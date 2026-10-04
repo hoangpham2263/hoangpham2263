@@ -1,60 +1,60 @@
-<svg width="350" height="190" viewBox="0 0 350 190" fill="none" xmlns="http://www.w3.org/2000/svg">
+<svg width="495" height="195" viewBox="0 0 495 195" fill="none" xmlns="http://www.w3.org/2000/svg">
   <style>
     .header { font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif; fill: #fff; animation: fadeIn 0.8s ease-in-out forwards; }
-    .lang-name { font: 400 11px 'Segoe UI', Ubuntu, Sans-Serif; fill: #9f9f9f; }
+    .lang-name { font: 400 13px 'Segoe UI', Ubuntu, Sans-Serif; fill: #9f9f9f; }
     .item { opacity: 0; animation: fadeIn 0.3s ease-in-out forwards; }
     .bar { transform-origin: left; transform: scaleX(0); animation: grow 1s ease-in-out forwards; }
     @keyframes fadeIn { from { opacity: 0; } to { opacity: 1; } }
     @keyframes grow { from { transform: scaleX(0); } to { transform: scaleX(1); } }
   </style>
-  <rect x="0.5" y="0.5" rx="4.5" width="349" height="189" fill="#151515" stroke="#E4E2E2" stroke-opacity="1"/>
-  <text x="25" y="35" class="header">My Programming Languages</text>
+  <rect x="0.5" y="0.5" rx="4.5" width="494" height="194" fill="#151515" stroke="#E4E2E2" stroke-opacity="1"/>
+  <text x="25" y="38" class="header">My Programming Languages</text>
 
   <mask id="bar-mask">
-    <rect x="25" y="55" width="300" height="8" rx="5" fill="white"/>
+    <rect x="25" y="58" width="445" height="8" rx="5" fill="white"/>
   </mask>
   <g mask="url(#bar-mask)">
     <g class="bar">
-      <rect x="25" y="55" width="50" height="8" fill="#4F5D95"/>
-      <rect x="75" y="55" width="50" height="8" fill="#f1e05a"/>
-      <rect x="125" y="55" width="50" height="8" fill="#3178c6"/>
-      <rect x="175" y="55" width="50" height="8" fill="#3fb950"/>
-      <rect x="225" y="55" width="50" height="8" fill="#e34c26"/>
-      <rect x="275" y="55" width="50" height="8" fill="#663399"/>
+      <rect x="25.00" y="58" width="74.17" height="8" fill="#4F5D95"/>
+      <rect x="99.17" y="58" width="74.17" height="8" fill="#f1e05a"/>
+      <rect x="173.33" y="58" width="74.17" height="8" fill="#3178c6"/>
+      <rect x="247.50" y="58" width="74.17" height="8" fill="#3fb950"/>
+      <rect x="321.67" y="58" width="74.17" height="8" fill="#e34c26"/>
+      <rect x="395.83" y="58" width="74.17" height="8" fill="#663399"/>
     </g>
   </g>
 
-  <g transform="translate(25, 85)">
+  <g transform="translate(25, 90)">
     <g class="item" style="animation-delay: 450ms">
       <circle cx="5" cy="6" r="5" fill="#4F5D95"/>
       <text x="15" y="10" class="lang-name">PHP</text>
     </g>
   </g>
-  <g transform="translate(175, 85)">
+  <g transform="translate(260, 90)">
     <g class="item" style="animation-delay: 600ms">
       <circle cx="5" cy="6" r="5" fill="#f1e05a"/>
       <text x="15" y="10" class="lang-name">JavaScript</text>
     </g>
   </g>
-  <g transform="translate(25, 115)">
+  <g transform="translate(25, 120)">
     <g class="item" style="animation-delay: 750ms">
       <circle cx="5" cy="6" r="5" fill="#3178c6"/>
       <text x="15" y="10" class="lang-name">TypeScript</text>
     </g>
   </g>
-  <g transform="translate(175, 115)">
+  <g transform="translate(260, 120)">
     <g class="item" style="animation-delay: 900ms">
       <circle cx="5" cy="6" r="5" fill="#3fb950"/>
       <text x="15" y="10" class="lang-name">Python</text>
     </g>
   </g>
-  <g transform="translate(25, 145)">
+  <g transform="translate(25, 150)">
     <g class="item" style="animation-delay: 1050ms">
       <circle cx="5" cy="6" r="5" fill="#e34c26"/>
       <text x="15" y="10" class="lang-name">HTML</text>
     </g>
   </g>
-  <g transform="translate(175, 145)">
+  <g transform="translate(260, 150)">
     <g class="item" style="animation-delay: 1200ms">
       <circle cx="5" cy="6" r="5" fill="#663399"/>
       <text x="15" y="10" class="lang-name">CSS</text>
