@@ -35,14 +35,9 @@ Welcome to my GitHub! I love turning ideas into websites that are fast, easy to 
 
 <p align="center">
 <a href="https://github.com/hoangpham2263">
-  <!-- Desktop (>= 1140px): two cards per row -->
-  <picture><source media="(max-width: 1139px)" srcset="https://raw.githubusercontent.com/hoangpham2263/hoangpham2263/main/blank.svg"><img width="49%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=hoangpham2263&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/></picture>
-  <picture><source media="(max-width: 1139px)" srcset="https://raw.githubusercontent.com/hoangpham2263/hoangpham2263/main/blank.svg"><img width="49%" src="./languages.svg"/></picture>
-  <picture><source media="(max-width: 1139px)" srcset="https://raw.githubusercontent.com/hoangpham2263/hoangpham2263/main/blank.svg"><img width="49%" src="https://github-readme-streak-stats-eight.vercel.app/?user=hoangpham2263&theme=dark&ring=EB5454"/></picture>
-  <!-- Smaller screens: one full-width card per row -->
-  <picture><source media="(min-width: 1140px)" srcset="https://raw.githubusercontent.com/hoangpham2263/hoangpham2263/main/blank.svg"><img width="100%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=hoangpham2263&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/></picture>
-  <picture><source media="(min-width: 1140px)" srcset="https://raw.githubusercontent.com/hoangpham2263/hoangpham2263/main/blank.svg"><img width="100%" src="./languages.svg"/></picture>
-  <picture><source media="(min-width: 1140px)" srcset="https://raw.githubusercontent.com/hoangpham2263/hoangpham2263/main/blank.svg"><img width="100%" src="https://github-readme-streak-stats-eight.vercel.app/?user=hoangpham2263&theme=dark&ring=EB5454"/></picture>
+  <img width="340" src="https://github-readme-stats-eight-theta.vercel.app/api?username=hoangpham2263&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img width="340" src="./languages.svg"/>
+  <img width="340" src="https://github-readme-streak-stats-eight.vercel.app/?user=hoangpham2263&theme=dark&ring=EB5454"/>
 </a>
 </p>
 
