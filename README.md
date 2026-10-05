@@ -8,7 +8,7 @@
 
 Welcome to my GitHub! I love turning ideas into websites that are fast, easy to use and easy to find on Google. Most of my work is building websites for businesses, and in my free time I explore new technologies and use them to build my own products.
 
-👉 &nbsp; Take a look at my projects on my <a href="https://hoangpham2263.github.io"><b>portfolio</b></a>, and feel free to reach out if you'd like to work together.
+👉 &nbsp; Take a look at my projects on my <a href="https://hoangpham.is-a.dev"><b>portfolio</b></a>, and feel free to reach out if you'd like to work together.
 
 <h3>🛠 Tech Stack</h3>
 
@@ -26,8 +26,8 @@ Welcome to my GitHub! I love turning ideas into websites that are fast, easy to 
 
 <h3> 🤝🏻 Connect with Me </h3>
 
-- <img src="./icons/portfolio.svg" width="18" align="absmiddle" alt="Portfolio" /> &nbsp; **Portfolio:** <a href="https://hoangpham2263.github.io">hoangpham2263.github.io</a>
-- <img src="./icons/cv.svg" width="18" align="absmiddle" alt="Resume" /> &nbsp; **Resume:** <a href="https://hoangpham2263.github.io/cv">hoangpham2263.github.io/cv</a>
+- <img src="./icons/portfolio.svg" width="18" align="absmiddle" alt="Portfolio" /> &nbsp; **Portfolio:** <a href="https://hoangpham.is-a.dev">hoangpham.is-a.dev</a>
+- <img src="./icons/cv.svg" width="18" align="absmiddle" alt="Resume" /> &nbsp; **Resume:** <a href="https://hoangpham.is-a.dev/cv">hoangpham.is-a.dev/cv</a>
 - <img src="./icons/gmail.svg" width="18" align="absmiddle" alt="Email" /> &nbsp; **Email:** <a href="mailto:hoangpham2263@gmail.com">hoangpham2263@gmail.com</a>
 - <img src="./icons/linkedin-in.svg" width="18" align="absmiddle" alt="LinkedIn" /> &nbsp; **LinkedIn:** <a href="https://www.linkedin.com/in/hoangpham2263/">linkedin.com/in/hoangpham2263</a>
 
