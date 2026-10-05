@@ -35,9 +35,9 @@ Welcome to my GitHub! I love turning ideas into websites that are fast, easy to 
 
 <p align="center">
 <a href="https://github.com/hoangpham2263">
-  <img width="340" src="https://github-readme-stats-eight-theta.vercel.app/api?username=hoangpham2263&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img width="340" src="./languages.svg"/>
-  <img width="340" src="https://github-readme-streak-stats-eight.vercel.app/?user=hoangpham2263&theme=dark&ring=EB5454"/>
+  <img width="413" src="https://github-readme-stats-eight-theta.vercel.app/api?username=hoangpham2263&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img width="413" src="./languages.svg"/>
+  <img width="413" src="https://github-readme-streak-stats-eight.vercel.app/?user=hoangpham2263&theme=dark&ring=EB5454"/>
 </a>
 </p>
 
