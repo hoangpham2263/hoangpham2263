@@ -1,48 +1,108 @@
-<h2> Hey there! I'm Pham Quoc Hoang (Will). <a href="#"><img src="https://user-images.githubusercontent.com/49482201/126591888-470f4965-6629-4b15-ab27-70be72148fe4.gif" width="25"></a></h2>
-<a href="#"><picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./coding-dark.gif">
-  <img align="right" alt="GIF" src="https://user-images.githubusercontent.com/49482201/126591963-c6972900-bfde-48d4-841d-d84ef26aaadf.gif" width="400"/>
-</picture></a>
+# Phạm Quốc Hoàng (Will)
 
-<h3> 👨🏻‍💻 About Me </h3>
+Full-stack developer in Hồ Chí Minh City, Việt Nam. WordPress and WooCommerce for client sites,
+Next.js for my own products.
 
-Welcome to my GitHub! I love turning ideas into websites that are fast, easy to use and easy to find on Google. Most of my work is building websites for businesses, and in my free time I explore new technologies and use them to build my own products.
+I turn Figma designs into fast, SEO-friendly websites and build the features behind them —
+custom themes, WooCommerce stores, data crawlers and admin systems. In my own time I build and run
+**Hoàn Hời**, a cashback platform that reconciles affiliate orders from Shopee, Lazada and TikTok Shop.
 
-👉 &nbsp; Take a look at my projects on my <a href="https://hoangpham.is-a.dev"><b>portfolio</b></a>, and feel free to reach out if you'd like to work together.
+[Portfolio](https://hoangpham.is-a.dev) ·
+[CV](https://hoangpham.is-a.dev/cv) ·
+[Email](mailto:hoangpham2263@gmail.com) ·
+[LinkedIn](https://www.linkedin.com/in/hoangpham2263/) ·
+[Telegram](https://t.me/hoangpham2263)
 
-<h3>🛠 Tech Stack</h3>
+---
 
-- 🔌 &nbsp; **WordPress:** Custom Themes | Plugin Development | WooCommerce | Elementor | ACF | WP REST API | Hooks & Filters
-- 🎨 &nbsp; **Frontend:** HTML5 | CSS3 | JavaScript | TypeScript | React | Next.js | Tailwind CSS | Responsive Design
-- ⚙️ &nbsp; **Backend:** PHP | Node.js | Python | Django | REST API | API Integration
-- 🗄️ &nbsp; **Database:** MySQL | PostgreSQL | MongoDB | Redis
-- 🕷️ &nbsp; **Crawl Data:** Python | Import to WordPress & WooCommerce
-- 🚀 &nbsp; **Performance & SEO:** Technical SEO | Rank Math | PageSpeed | Core Web Vitals | LiteSpeed Cache | Security Hardening
-- 🔧 &nbsp; **Tools & AI:** Git | Docker | GitHub Actions (CI/CD) | Figma | Claude Code | Codex | Gemini
+## Experience
 
-<h3>🚀 Current Project</h3>
+### Software Engineer (AI Evaluation) — HD TechLabs Solution
+**Jul 2026 – present** · Freelance, remote · `Docker` `Python`
 
-- 💸 &nbsp; <a href="https://hoanhoi.com"><b>Hoàn Hời</b></a> — Creator & Developer (Aug 2026 – Present). A personal project: a cashback platform that lets users create tracked shopping links and get money back once their orders are reconciled. Built with Next.js, PostgreSQL and Redis, with CI/CD on GitHub Actions, and running in production.
+- Write and review advanced math problems with verified reference solutions
+- Build coding benchmark tasks with Docker environments and automated tests
 
-<h3> 🤝🏻 Connect with Me </h3>
+### Web Developer — [Puramu](https://www.puramu.com/)
+**Feb 2025 – Jun 2026** · Hồ Chí Minh City · `WordPress` `WooCommerce` `PHP` `JavaScript` `MySQL` `Python` `Next.js`
 
-- <img src="./icons/portfolio.svg" width="18" align="absmiddle" alt="Portfolio" /> &nbsp; **Portfolio:** <a href="https://hoangpham.is-a.dev">hoangpham.is-a.dev</a>
-- <img src="./icons/cv.svg" width="18" align="absmiddle" alt="Resume" /> &nbsp; **Resume:** <a href="https://hoangpham.is-a.dev/cv">hoangpham.is-a.dev/cv</a>
-- <img src="./icons/gmail.svg" width="18" align="absmiddle" alt="Email" /> &nbsp; **Email:** <a href="mailto:hoangpham2263@gmail.com">hoangpham2263@gmail.com</a>
-- <img src="./icons/linkedin-in.svg" width="18" align="absmiddle" alt="LinkedIn" /> &nbsp; **LinkedIn:** <a href="https://www.linkedin.com/in/hoangpham2263/">linkedin.com/in/hoangpham2263</a>
+- Built custom, SEO-friendly WordPress themes from Figma for e-commerce, education and service sites
+- Built WooCommerce stores with product catalogues, search and online ordering
+- Built custom WordPress features with PHP, JavaScript, the WP REST API, Next.js and third-party APIs
+- Wrote Python crawlers to import data and migrated stores from other platforms to WooCommerce
+- Set up technical SEO with Rank Math and improved page speed and Core Web Vitals
+- Maintained and secured client websites, working with designers, QA and PMs to deliver on time
 
-### ⚙️ &nbsp;Stats and Activity
+Selected sites: Kim Quốc Tiến, Nhật Nam Home, GFC Security, Đức Trí Piano Boutique, EuroLife —
+[full list on the portfolio](https://hoangpham.is-a.dev).
 
-<p align="center">
-<a href="https://github.com/hoangpham2263">
-  <img width="413" src="https://github-readme-stats-eight-theta.vercel.app/api?username=hoangpham2263&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img width="413" src="./languages.svg"/>
-  <img width="413" src="https://github-readme-streak-stats-eight.vercel.app/?user=hoangpham2263&theme=dark&ring=EB5454"/>
-</a>
-</p>
+### Backend Developer — Meta Technology
+**Apr 2024 – Jul 2024** · Part-time, Đà Nẵng · `Next.js`
 
-<p><b>Note:</b> The languages card lists the languages I work with most, not an automatic count of my public repositories. Stats and streak only reflect public activity on this account.</p>
+Built Next.js APIs connecting frontend and backend services; improved response times and fixed system issues.
 
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=hoangpham2263&label=Profile%20views&color=2563eb&style=flat-square" alt="Profile views" />
-</p>
+### Backend Developer — Lift Software Vietnam
+**Mar 2022 – Jun 2022** · Part-time, Đà Nẵng · `Django`
+
+Built Django APIs with unit tests; worked on data storage and queries, bug fixing and maintenance.
+
+---
+
+## Selected projects
+
+### [Hoàn Hời](https://hoanhoi.com) — cashback for online shopping
+*Personal project · Aug 2026 – present · `Next.js` `TypeScript` `PostgreSQL` `Redis` `Docker` `GitHub Actions`*
+
+Users open a product through a Hoàn Hời link; the marketplace pays a commission for the order and
+most of it goes back to the user's wallet. I built the whole product — user app and admin system —
+and run it in production.
+
+- Shopee, Lazada, TikTok Shop and ACCESSTRADE integration to sync and reconcile affiliate orders
+- Wallet and ledger flow for cashback, withdrawals and reversals
+- CI/CD with GitHub Actions, deployed to a VPS with automatic database backups
+
+### [Portfolio](https://hoangpham.is-a.dev) · [source](https://github.com/hoangpham2263/hoangpham2263.github.io)
+*`Next.js` `TypeScript` `Tailwind CSS` `MDX` `GitHub Pages`*
+
+Static-exported portfolio with Vietnamese (default) and English versions, hreflang SEO, 30+ project
+write-ups, a blog and a tools page.
+
+---
+
+## Tools
+
+| Tool | What it does | Stack |
+|---|---|---|
+| [Image Converter](https://github.com/hoangpham2263/image-converter) · [demo](https://hoangpham.is-a.dev/image-converter/) | Convert images to WebP, JPEG or PNG, compress and resize in batches — runs in the browser, nothing is uploaded | JavaScript · Canvas API |
+
+## More work
+
+| Project | What it is | Stack |
+|---|---|---|
+| [PinkLove](https://github.com/hoangpham2263/pinklove) | Online wedding invitation platform with a drag-and-drop builder and customer, admin, provider and affiliate portals | Next.js · PostgreSQL · Konva |
+| [Apple Store](https://github.com/hoangpham2263/apple-store) | Apple products online store | React · Node.js · Express · MongoDB |
+| [Phone Store](https://github.com/hoangpham2263/phone-store) | Phone e-commerce store | React · Node.js · Express · MySQL |
+| [E-commerce (Vite)](https://github.com/hoangpham2263/ecommerce-vite-react-node) | Full-stack e-commerce web app | React (Vite) · Node.js · Express |
+| [E-commerce on Docker](https://github.com/hoangpham2263/ecommerce-docker-deployment) | E-commerce app containerised with Docker | React · Node.js · MySQL · Docker |
+| [Zing MP3 Clone](https://github.com/hoangpham2263/zing-mp3-clone) | Music player web app | HTML · CSS · JavaScript |
+| [TikTok UI Clone](https://github.com/hoangpham2263/tiktok-ui-clone) | TikTok web UI clone | React |
+
+---
+
+## Technical skills
+
+| | |
+|---|---|
+| **WordPress** | Custom themes, plugin development, WooCommerce, Elementor, ACF, WP REST API, hooks & filters |
+| **Frontend** | HTML5, CSS3, JavaScript, TypeScript, React, Next.js, Tailwind CSS, responsive design |
+| **Backend** | PHP, Node.js, Python, Django, REST APIs, third-party API integration |
+| **Data** | MySQL, PostgreSQL, MongoDB, Redis; Python crawlers and imports into WordPress/WooCommerce |
+| **Performance & SEO** | Technical SEO, Rank Math, PageSpeed, Core Web Vitals, LiteSpeed Cache, security hardening |
+| **Infrastructure** | Git, Docker, GitHub Actions (CI/CD), VPS deployment |
+| **AI tooling** | Claude Code, Codex and Gemini in day-to-day build and review work |
+
+---
+
+## Education
+
+**B.Sc. Software Engineering** — Duy Tan University, Đà Nẵng, 2021–2025
