@@ -28,7 +28,7 @@ GitHub Actions, and running in production.
 
 ## Tech Stack
 
-| | |
+| Area | Technologies |
 |---|---|
 | **WordPress** | Custom Themes · Plugin Development · WooCommerce · Elementor · ACF · WP REST API · Hooks & Filters |
 | **Frontend** | HTML5 · CSS3 · JavaScript · TypeScript · React · Next.js · Tailwind CSS · Responsive Design |
@@ -42,8 +42,13 @@ GitHub Actions, and running in production.
 
 ## Connect with Me
 
-| | |
-|---|---|
+- **Portfolio:** [hoangpham.is-a.dev](https://hoangpham.is-a.dev)
+- **Resume:** [hoangpham.is-a.dev/cv](https://hoangpham.is-a.dev/cv)
+- **Email:** [hoangpham2263@gmail.com](mailto:hoangpham2263@gmail.com)
+- **LinkedIn:** [linkedin.com/in/hoangpham2263](https://www.linkedin.com/in/hoangpham2263/)
+- **Telegram:** [@hoangpham2263](https://t.me/hoangpham2263)
+
+---|---|
 | **Portfolio** | [hoangpham.is-a.dev](https://hoangpham.is-a.dev) |
 | **Resume** | [hoangpham.is-a.dev/cv](https://hoangpham.is-a.dev/cv) |
 | **Email** | [hoangpham2263@gmail.com](mailto:hoangpham2263@gmail.com) |
