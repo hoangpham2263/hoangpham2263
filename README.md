@@ -1,11 +1,14 @@
-# Pham Quoc Hoang (Will)
+<h2> Hey there! I'm Pham Quoc Hoang (Will). <a href="#"><img src="https://user-images.githubusercontent.com/49482201/126591888-470f4965-6629-4b15-ab27-70be72148fe4.gif" width="25"></a></h2>
+<a href="#"><picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./coding-dark.gif">
+  <img align="right" alt="GIF" src="https://user-images.githubusercontent.com/49482201/126591963-c6972900-bfde-48d4-841d-d84ef26aaadf.gif" width="400"/>
+</picture></a>
 
-Full-Stack Developer · WordPress. I love turning ideas into websites that are fast, easy to use and
-easy to find on Google. Most of my work is building websites for businesses, and in my free time I
-explore new technologies and use them to build my own products.
+<h3> 👨🏻‍💻 About Me </h3>
 
-Take a look at my projects on my [portfolio](https://hoangpham.is-a.dev), and feel free to reach out
-if you'd like to work together.
+Welcome to my GitHub! I love turning ideas into websites that are fast, easy to use and easy to find on Google. Most of my work is building websites for businesses, and in my free time I explore new technologies and use them to build my own products.
+
+👉 &nbsp; Take a look at my projects on my <a href="https://hoangpham.is-a.dev"><b>portfolio</b></a>, and feel free to reach out if you'd like to work together.
 
 [Portfolio](https://hoangpham.is-a.dev) ·
 [Resume](https://hoangpham.is-a.dev/cv) ·
