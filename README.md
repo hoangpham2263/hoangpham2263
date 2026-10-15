@@ -26,6 +26,42 @@ GitHub Actions, and running in production.
 
 ---
 
+## Selected projects
+
+### [Portfolio](https://hoangpham.is-a.dev) · [source](https://github.com/hoangpham2263/hoangpham2263.github.io)
+*`Next.js` `TypeScript` `Tailwind CSS` `MDX` `GitHub Pages`*
+
+Personal portfolio and resume — Vietnamese and English versions, 30+ project write-ups, a blog,
+a tools page and a web CV with PDF download.
+
+### [PinkLove](https://github.com/hoangpham2263/pinklove) — online wedding invitations
+*`Next.js` `React` `TypeScript` `PostgreSQL` `Konva` `Docker`*
+
+Couples pick a template or design their own invitation in a drag-and-drop editor, publish it as a
+wedding website and share it with guests. Role-based portals for customers, admins, service
+providers and affiliates.
+
+### [Image Converter](https://github.com/hoangpham2263/image-converter) · [demo](https://hoangpham.is-a.dev/image-converter/)
+*`JavaScript` `Canvas API`*
+
+Convert images to WebP, JPEG or PNG, compress and resize in batches — runs in the browser,
+nothing is uploaded.
+
+---
+
+## More work
+
+| Project | What it is | Stack |
+|---|---|---|
+| [Apple Store](https://github.com/hoangpham2263/apple-store) | Apple products online store | React · Node.js · Express · MongoDB |
+| [Phone Store](https://github.com/hoangpham2263/phone-store) | Phone e-commerce store | React · Node.js · Express · MySQL |
+| [E-commerce (Vite)](https://github.com/hoangpham2263/ecommerce-vite-react-node) | Full-stack e-commerce web app | React (Vite) · Node.js · Express |
+| [E-commerce on Docker](https://github.com/hoangpham2263/ecommerce-docker-deployment) | E-commerce app containerised with Docker | React · Node.js · MySQL · Docker |
+| [Zing MP3 Clone](https://github.com/hoangpham2263/zing-mp3-clone) | Music player web app | HTML · CSS · JavaScript |
+| [TikTok UI Clone](https://github.com/hoangpham2263/tiktok-ui-clone) | TikTok web UI clone | React |
+
+---
+
 ## Tech Stack
 
 | Area | Technologies |
@@ -54,16 +90,3 @@ GitHub Actions, and running in production.
 | **Email** | [hoangpham2263@gmail.com](mailto:hoangpham2263@gmail.com) |
 | **LinkedIn** | [linkedin.com/in/hoangpham2263](https://www.linkedin.com/in/hoangpham2263/) |
 | **Telegram** | [@hoangpham2263](https://t.me/hoangpham2263) |
-
----
-
-## Stats and Activity
-
-![GitHub stats](https://github-readme-stats-eight-theta.vercel.app/api?username=hoangpham2263&show_icons=true&theme=dark&include_all_commits=true&count_private=true)
-![Languages](./languages.svg)
-![GitHub streak](https://github-readme-streak-stats-eight.vercel.app/?user=hoangpham2263&theme=dark&ring=EB5454)
-
-**Note:** The languages card lists the languages I work with most, not an automatic count of my public
-repositories. Stats and streak only reflect public activity on this account.
-
-![Profile views](https://komarev.com/ghpvc/?username=hoangpham2263&label=Profile%20views&color=2563eb&style=flat-square)
